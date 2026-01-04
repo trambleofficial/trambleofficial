@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm **trambleofficial**
 
-<!--
-**trambleofficial/trambleofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Developer | Creator | Tech Explorer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm **trambleofficial**, a developer who loves building modern, clean, and practical solutions using code. I enjoy learning new technologies and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 🔭 Currently working on personal & open-source projects
+* 🌱 Learning and improving skills every day
+* 💡 Interested in **Web Development, Automation, Bots & AI tools**
+* 🛠️ Love clean code and minimal design
+* 📫 Reach me at: **[trambleofficial@gmail.com](mailto:trambleofficial@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+
+* ⚙️ Node.js
+* 🐍 Python
+* 🔧 Git & GitHub
+
+---
+
+## 📂 Projects
+
+* 🔹 **trambleofficial** – My profile & starter repository
+* 🔹 More projects coming soon 🚧
+
+---
+
+## 📈 GitHub Stats
+
+* 📌 Actively learning & committing
+* 🚀 Growing one project at a time
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: **[trambleofficial@gmail.com](mailto:trambleofficial@gmail.com)**
+* 🐙 GitHub: [https://github.com/trambleofficial](https://github.com/trambleofficial)
+
+---
+
+⭐ *If you like my work, consider following me or starring my repositories!*
